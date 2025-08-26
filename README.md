@@ -5,15 +5,6 @@
 <details align="middle">
 <summary>Open profile</summary>
 
-<br />
-
-[comment]: <> (View Counter)
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=daenges&label=Visits&color=DD6387&style=flat" alt="daenges" /> </p>
-
----
-
-<br />
-
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Languages:</b></h3>
 <p align="center">
