@@ -6,7 +6,7 @@
 <summary>Open profile</summary>
 
 [comment]: <> (Links to programming languages)
-<h3 align="center"><b>Languages:</b></h3>
+<h3 align="center"><b>Languages</b></h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -21,11 +21,18 @@
 
 
 [comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Hobby Projects:</h3>
-<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
-
-<br />
-<br />
+<h3 align="center"><b>Selected Works</h3>
+<p align="center">
+  <b>1. GPT-2 Fine Tuning</b>
+  <a href="https://github.com/SeonghwanNo-dev/GPT2" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-2 Project" width="120" height="45"/>
+  </a>
+  <br/>
+  <b>2. Document Parser Develop</b>
+  <a href="https://github.com/SeonghwanNo-dev/DocumentParser" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Document Parser Project" width="120" height="45"/>
+  </a>
+</p>
 
 ---
 
