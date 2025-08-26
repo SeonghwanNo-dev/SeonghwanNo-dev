@@ -44,15 +44,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=daenges&bg_color=282a36&color=dd6387&line=dd6387&point=ffffff&area=true&hide_border=false)](https://github.com/Daenges)
 </details>
 
-
----
-
-[comment]: <> (Extend trophies)
-<details>
-<summary align="center">:trophy: Trophies :trophy:</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daenges&amp;theme=dracula" alt="daenges" /></a> </p>
-</details>
-
 ---
 
 <details>
@@ -69,4 +60,4 @@
 ![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
 
 ------
-[Daenges](https://github.com/Daenges)
+[GitHub Pages](https://seonghwanno-dev.github.io/)
