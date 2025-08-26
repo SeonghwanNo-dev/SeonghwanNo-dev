@@ -1,4 +1,4 @@
- ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-1-column-1%20(1).jpg?raw=true)
+ ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/Hello,.png?raw=true)
 
 ---
 
