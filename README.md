@@ -1,4 +1,4 @@
- ![Profile_Banner_with_text_cutted_top](https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png)
+ ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/coffee_1.jpg?raw=true)
 
 ---
 
@@ -73,7 +73,7 @@
 ---
 
 
-![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
+![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/coffee_2.jpg?raw=true)
 
 ------
 [GitHub Pages](https://seonghwanno-dev.github.io/)
