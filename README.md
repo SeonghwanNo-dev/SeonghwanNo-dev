@@ -45,12 +45,12 @@
 <br/>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeonghwanNo-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Most Used Languages" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeonghwanNo-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Most Used Languages" width="450"/>
 </p>
 
 [comment]: <> (Github statistics)
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SeonghwanNo-dev&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="GitHub stats" width="700"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SeonghwanNo-dev&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="GitHub stats" width="450"/> 
 </p>
 
 [comment]: <> (Commit graph)
