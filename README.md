@@ -42,13 +42,14 @@
 [comment]: <> (Most used languages)
 <summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daenges&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeonghwanNo-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt=SeonghwanNo-dev /></p>
 
 [comment]: <> (Github statistics)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SeonghwanNo-dev&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=SeonghwanNo-dev /> </p>
 
 [comment]: <> (Commit graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=daenges&bg_color=282a36&color=dd6387&line=dd6387&point=ffffff&area=true&hide_border=false)](https://github.com/Daenges)
+[![SeonghwanNo-dev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeonghwanNo-dev&theme=dracula)](https://github.com/SeonghwanNo-dev)
+
 </details>
 
 ---
