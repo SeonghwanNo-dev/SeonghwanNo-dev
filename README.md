@@ -42,18 +42,20 @@
 [comment]: <> (Most used languages)
 <summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
 
+<br/>
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeonghwanNo-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Most Used Languages" width="450" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeonghwanNo-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Most Used Languages" width="450"/>
 </p>
 
 [comment]: <> (Github statistics)
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SeonghwanNo-dev&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="GitHub stats" width="450" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SeonghwanNo-dev&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="GitHub stats" width="450"/> 
 </p>
 
 [comment]: <> (Commit graph)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeonghwanNo-dev&theme=dracula" alt="GitHub activity graph" width="450" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeonghwanNo-dev&theme=dracula" alt="GitHub activity graph" width="450"/>
 </p>
 
 </details>
