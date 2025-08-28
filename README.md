@@ -38,17 +38,14 @@
 [comment]: <> (Links to other computer related stuff)
 <h3 align="center"><b>Selected Works</b></h3>
 
-<div style="text-align:left">
   1. GPT-2 Fine Tuning
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2))
 
   2. Document Parser Develop
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/DocumentParser))
-</div>
 
   ---
   
-<div style="text-align:left">
   ### Experience
   - Undergraduate Researcher: LLM Lab at Dongguk University (Mar 2025 - Jun 2025)
   - AI Tech Trainee: Naver BoostCamp AI Tech (Sep 2025 - Feb 2026)
@@ -60,7 +57,6 @@
   ### Certification 
   - Engineer Information Processing (Written Exam Passed, Practical Exam in Preparation)
   - SQLD (SQL Developer) (Awaiting Results)
-</div>
 
 ---
 
