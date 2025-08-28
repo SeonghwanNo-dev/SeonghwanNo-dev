@@ -39,10 +39,10 @@
 <h3 align="center"><b>Selected Works</b></h3>
 
   - GPT-2 Fine Tuning
-    ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2))
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2_FineTuning))
 
   - Document Parser Develop
-    ([GitHub Repository](https://github.com/SeonghwanNo-dev/DocumentParser))
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/document-parser))
 
   ---
   
