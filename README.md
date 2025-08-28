@@ -5,6 +5,7 @@
 <details align="middle">
 <summary>Open profile</summary>
 
+
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Languages</b></h3>
 <p align="center">
@@ -20,19 +21,46 @@
 </p>
 
 
-[comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Selected Works</h3>
+[comment]: <> (Links to Technical Skills)
+<h3 align="center"><b>Technical Skills</b></h3>
 <p align="center">
-  <b>1. GPT-2 Fine Tuning</b>
-  <a href="https://github.com/SeonghwanNo-dev/GPT2" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-2 Project" width="120" height="45"/>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   </a>
-  <br/>
-  <b>2. Document Parser Develop</b>
-  <a href="https://github.com/SeonghwanNo-dev/DocumentParser" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Document Parser Project" width="120" height="45"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/fastapi/009688" alt="fastapi" width="40" height="40"/>
   </a>
 </p>
+
+[comment]: <> (Links to other computer related stuff)
+<h3 align="center"><b>Selected Works</b></h3>
+
+<div style="text-align:left">
+  1. GPT-2 Fine Tuning
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2))
+
+  2. Document Parser Develop
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/DocumentParser))
+</div>
+
+  ---
+  
+<div style="text-align:left">
+  ### Experience
+  - Undergraduate Researcher: LLM Lab at Dongguk University (Mar 2025 - Jun 2025)
+  - AI Tech Trainee: Naver BoostCamp AI Tech (Sep 2025 - Feb 2026)
+  ---
+  ### Education
+  - Dongguk University: Currently on academic leave with one semester remaining, majoring in AI. (GPA: 3.87/4.5)
+  - Jeonbuk National University: Studied Physics for two years before transferring. (GPA: 4.13/4.5)
+  ---
+  ### Certification 
+  - Engineer Information Processing (Written Exam Passed, Practical Exam in Preparation)
+  - SQLD (SQL Developer) (Awaiting Results)
+</div>
 
 ---
 
@@ -76,4 +104,4 @@
 ![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-2-column-1%20(1).jpg?raw=true)
 
 ------
-[GitHub Pages](https://seonghwanno-dev.github.io/)
+[GitHub Pages (Coming soon...)](https://seonghwanno-dev.github.io/)
