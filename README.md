@@ -100,6 +100,6 @@
 ![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-2-column-1%20(1).jpg?raw=true)
 
 ------
-[**GitHub Pages (Coming soon...)**](https://seonghwanno-dev.github.io/)
-<br/>
 **Email:** seonghwangood01@gmail.com
+<br/>
+[**GitHub Pages (Coming soon...)**](https://seonghwanno-dev.github.io/)
