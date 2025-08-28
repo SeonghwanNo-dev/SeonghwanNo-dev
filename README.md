@@ -101,3 +101,4 @@
 
 ------
 [**GitHub Pages (Coming soon...)**](https://seonghwanno-dev.github.io/)
+**Email:** seonghwangood01@gmail.com
