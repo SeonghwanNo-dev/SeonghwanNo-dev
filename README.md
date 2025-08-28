@@ -1,4 +1,4 @@
- ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/Hello,%20(1).png?raw=true)
+ ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/Hello%20there,%20I%20am%20SeonghwanNo-Dev.png?raw=true)
 
 ---
 
@@ -97,7 +97,7 @@
 ---
 
 
-![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-2-column-1%20(1).jpg?raw=true)
+![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-2-column-1%20(2).jpg?raw=true)
 
 ------
 **Email:** seonghwangood01@gmail.com
