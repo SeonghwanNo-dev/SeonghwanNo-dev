@@ -38,10 +38,10 @@
 [comment]: <> (Links to other computer related stuff)
 <h3 align="center"><b>Selected Works</b></h3>
 
-  1. GPT-2 Fine Tuning
+  - GPT-2 Fine Tuning
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2))
 
-  2. Document Parser Develop
+  - Document Parser Develop
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/DocumentParser))
 
   ---
@@ -100,4 +100,4 @@
 ![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-2-column-1%20(1).jpg?raw=true)
 
 ------
-[GitHub Pages (Coming soon...)](https://seonghwanno-dev.github.io/)
+[**GitHub Pages (Coming soon...)**](https://seonghwanno-dev.github.io/)
