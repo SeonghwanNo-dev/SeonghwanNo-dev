@@ -48,7 +48,7 @@
   
   ### Experience
   - Undergraduate Researcher: LLM Lab at Dongguk University (Mar 2025 - Jul 2025)
-  - AI Tech Trainee: Naver BoostCamp AI Tech (Sep 2025 - Feb 2026)
+  - AI Engineer Trainee: Naver BoostCamp AI Tech (Sep 2025 - Feb 2026)
   ---
   ### Education
   - Dongguk University: Currently on academic leave with one semester remaining, majoring in AI. (GPA: 3.87/4.5)
