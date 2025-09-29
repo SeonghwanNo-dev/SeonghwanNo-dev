@@ -56,7 +56,7 @@
   ---
   ### Certification 
   - Engineer Information Processing (Written Exam Passed, Practical Exam in Preparation)
-  - SQLD (SQL Developer) (Awaiting Results)
+  - SQLD (SQL Developer)
 
 ---
 
