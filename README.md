@@ -46,8 +46,8 @@
 
 <h3 align="center"><b>Current Research</b></h3>
 
-  - LoGO(LoRA on the Go: Instance-level Dynamic LoRA Selection and Merging) Implementation
-    ([GitHub Repository](https://github.com/SeonghwanNo-dev/LoGo))
+  - LoGO(A Research Paper on Multi-LoRA Serving) Implementation
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/LoGO))
 
   - Multi-LoRA Serving Optimization on NVIDIA Jetso
     <small>(Private Repository / Ongoing Research)</small>
