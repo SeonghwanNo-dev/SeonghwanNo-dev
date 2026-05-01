@@ -5,14 +5,34 @@
 <details align="middle">
 <summary>Open profile</summary>
 
- <!-- Languages -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <!-- Technical Skills -->
-  <a href="https://pytorch.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://cdn.simpleicons.org/fastapi/009688" alt="fastapi" width="40" height="40"/></a>
+[comment]: <> (Links to programming languages)
+<h3 align="center"><b>Languages</b></h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.iso.org/standard/74528.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+</p>
+
+
+[comment]: <> (Links to Technical Skills)
+<h3 align="center"><b>Technical Skills</b></h3>
+<p align="center">
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/fastapi/009688" alt="fastapi" width="40" height="40"/>
+  </a>
+</p>
 
 
 [comment]: <> (Links to other computer related stuff)
