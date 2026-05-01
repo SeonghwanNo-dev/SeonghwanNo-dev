@@ -64,7 +64,6 @@
   ### Certification 
   - Engineer Information Processing
   - SQLD (SQL Developer)
-  - TOEIC (740)
 ---
 
 ![Profile_Banner_with_text_cutted_bottom](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/row-2-column-1%20(2).jpg?raw=true)
