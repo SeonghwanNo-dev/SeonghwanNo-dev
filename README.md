@@ -49,7 +49,7 @@
   - LoGO(A Research Paper on Multi-LoRA Serving) Implementation
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/LoGO))
 
-  - Multi-LoRA Serving Optimization on NVIDIA Jetso
+  - Multi-LoRA Serving Optimization on NVIDIA Jetson
     <small>(Private Repository / Ongoing Research)</small>
   ---
   
