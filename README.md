@@ -38,8 +38,8 @@
 [comment]: <> (Links to other computer related stuff)
 <h3 align="center"><b>Selected Works</b></h3>
 
-  - GPT-2 Fine Tuning
-    ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2_FineTuning))
+  - GPT-2_PEFT_and_KD
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/GPT2_PEFT_and_KD_Archive))
 
   - Bert_KD
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/Bert_KD))
