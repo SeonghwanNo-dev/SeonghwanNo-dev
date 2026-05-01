@@ -58,7 +58,7 @@
   - Undergraduate Researcher: Intelligent System & Network Lab at Dongguk University (Mar 2026 - Now)
   ---
   ### Education
-  - Dongguk University: Currently on academic leave with one semester remaining, majoring in AI. (GPA: 3.87/4.5)
+  - Dongguk University: Currently on academic leave with one semester remaining, majoring in CS. (GPA: 3.87/4.5)
   - Jeonbuk National University: Studied Physics for two years before transferring. (GPA: 4.13/4.5)
   ---
   ### Certification 
