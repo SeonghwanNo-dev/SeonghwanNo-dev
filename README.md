@@ -44,6 +44,13 @@
   - Bert_KD
     ([GitHub Repository](https://github.com/SeonghwanNo-dev/Bert_KD))
 
+<h3 align="center"><b>Current Research</b></h3>
+
+  - LoGO(LoRA on the Go: Instance-level Dynamic LoRA Selection and Merging) Implementation
+    ([GitHub Repository](https://github.com/SeonghwanNo-dev/LoGo))
+
+  - Multi-LoRA Serving Optimization on NVIDIA Jetso
+    <small>(Private Repository / Ongoing Research)</small>
   ---
   
   ### Experience
