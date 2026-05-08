@@ -1,4 +1,4 @@
- ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/Hello%20there,%20I%20am%20SeonghwanNo-Dev.png?raw=true)
+ ![Profile_Banner_with_text_cutted_top](https://github.com/SeonghwanNo-dev/SeonghwanNo-dev/blob/my_profile/img/ML_Engineer.png?raw=true)
 
 ---
 
